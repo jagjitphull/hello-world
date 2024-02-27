@@ -1,1 +1,3 @@
 # hello-world
+This is phase of learning.
+Learning is wonderful process...
